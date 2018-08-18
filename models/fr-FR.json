@@ -1,0 +1,42 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "blague de geek",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.YesIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NoIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "JokeIntent",
+          "slots": [],
+          "samples": [
+            "blague d'ingénieur informatique",
+            "blague de geek",
+            "blague de dev",
+            "raconte moi une blague de developpeur",
+            "raconte moi une blague d'informaticien",
+            "raconte moi une blague de geek"
+          ]
+        }
+      ],
+      "types": []
+    }
+  }
+}
